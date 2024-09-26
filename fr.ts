@@ -1226,7 +1226,7 @@ export const FR = {
     Sandwich: "Sandwich",
     StandbyMode: "Standby Mode",
     StandbyModeDesc:
-        "La partie continue de tourner en tâche de fond mais aucun il ne sera fait aucun rendu graphique. Ceci peut réduire fortement l'utilisation de votre GPU et modérément celle de votre CPU",
+        "La partie continue de tourner en tâche de fond mais il ne sera fait aucun rendu graphique. Ceci peut réduire fortement l'utilisation de votre GPU et modérément celle de votre CPU",
     StandbyModeOn: "Mode Tâche de fond activé",
     StandbyModeOnDesc: "La partie continue en tâche de fond. Cliquer n'importe où pour sortir de ce mode",
     PigFarm: "Porcherie",
